@@ -83,7 +83,7 @@
 <tspan x="10" y="1290">  │ │ ├── lodash@4.3.0 </tspan>
 <tspan x="10" y="1306">  │ │ └─┬ which@1.2.14 </tspan>
 <tspan x="10" y="1322">  │ │   └── isexe@2.0.0 </tspan>
-<tspan x="10" y="1338">  │ ├── iconv-lite@0.4.15 </tspan>
+<tspan x="10" y="1338">  │ ├── iconv-lite@0.4.16 </tspan>
 <tspan x="10" y="1354">  │ ├─┬ js-yaml@3.5.5 </tspan>
 <tspan x="10" y="1370">  │ │ ├─┬ argparse@1.0.9 </tspan>
 <tspan x="10" y="1386">  │ │ │ └── sprintf-js@1.0.3 </tspan>
